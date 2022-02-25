@@ -1,0 +1,4 @@
+1;kathmandu;highway
+2;khurkot;highway
+3;viman;highway
+4;katari;highway
